@@ -187,13 +187,6 @@ npm run build
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Support
-
-For support and questions:
-- Email: support@renthub.com
-- Phone: 1-800-RENT-HUB
-- Help Center: Available in the application
-
 ## 🙏 Acknowledgments
 
 - Shadcn UI for the beautiful component library
